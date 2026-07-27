@@ -1,0 +1,15 @@
+Love-For-Ripal/
+│
+├── index.html
+├── style.css
+├── script.js
+├── photos/
+│   ├── photo1.jpg
+│   ├── photo2.jpg
+│   ├── photo3.jpg
+│   ├── photo4.jpg
+│   └── photo5.jpg
+│
+└── assets/
+    ├── hearts.png
+    └── music-button.png
